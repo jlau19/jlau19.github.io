@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jojo Lau",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://jlau19.github.io/images/Jojo.JPG",
+    "email": "hl22@hawaii.edu",
+    "phone": "",
+    "website": "https://jlau19.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "124 Boyd Ln",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,147 +17,124 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jlau19",
+        "url": "http://github.com/jlau19"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Traveling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "reading",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "weight lifting",
+      "keywords": [
+      ]
+    }
+  ],
+  {
+      "name": "anime",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Bilingual",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Cantonese",
       ]
     },
-    {
-      "name": "Toolsets/OS",
+     {
+      "name": "Microsoft",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Word",
+        "Excel",
+        "Powerpoint",
+      ]
+    },
+     {
+      "name": "Qualification",
+      "level": "",
+      "keywords": [
+        "Possesses an active Secret Clearance",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Spring, 2022)",
+      "studyType": "B.B.A.",
+      "startDate": "2015-08",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Farrington High School",
+      "position": "Paraprofessional Educator",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Tech Support",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Manage network IP addresses and Google Administration for organization",
+        "Install and repair school software and drivers",
+        "Train personnel how to use new technology and offer timely technical support to users"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaii Army National Guard",
+      "position": "Senior Multichannel Transmisions Systems Operator/Maintainer",
+      "website": "",
+      "startDate": "2014-06-20",
+      "endDate": "2020-06-19",
+      "summary": "Team Chief",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain accountability of equipment worth over $1,000,000",
+        "Install, operate, and maintain multichannel line-of-site communication systems",
+        "Troubleshoot system failures and provide solutions to restore system functionality"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Diamond Head Clubhouse",
+      "website": "",
+      "position": "",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Volunteer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assist and participate in daily activities with Clubhouse members"
       ]
     }
   ],
-  "awards": [
+  "achievements": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Valedictorian",
+      "date": "2017",
+      "awarder": "Kapiolani Community College",
+      "summary": "Earned an A.A. with a GPA of 4.0"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Soldier of the Year",
+      "date": "2016",
+      "awarder": "227th BEB, Hawaii Army National Guard",
+      "summary": "Won the Battalion Best Warrior Competition in a series of events testing technical and tactical military skills and knowledge "
     }
   ],
   "references": [
