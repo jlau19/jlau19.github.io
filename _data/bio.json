@@ -74,8 +74,18 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Management Information Systems (expected Spring, 2022)",
       "studyType": "B.B.A.",
-      "startDate": "2015-08",
+      "startDate": "2020-08",
       "endDate": "Present",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2015-08",
+      "endDate": "2017-12",
       "gpa": "4.0",
       "courses": [
       ]
@@ -123,12 +133,6 @@
     }
   ],
   "awards": [
-    {
-      "title": "Valedictorian",
-      "date": "2017",
-      "awarder": "Kapiolani Community College",
-      "summary": "Earned an A.A. with a GPA of 4.0"
-    },
     {
       "title": "Soldier of the Year",
       "date": "2016",
