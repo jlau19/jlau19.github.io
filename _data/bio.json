@@ -2,46 +2,148 @@
   "basics": {
     "name": "Jojo Lau",
     "label": "Shidler Undergraduate",
-    "label": "",
     "picture": "https://jlau19.github.io/images/Jojo.png",
     "email": "hl22@hawaii.edu",
-    "email": "",
     "phone": "",
     "website": "https://jlau19.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "website": "",
-    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
-    }
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "jlau19",
+        "url": "http://github.com/jlau19"
+      }
+    ]
+  },
   "interests": [
     {
       "name": "Traveling",
-      "name": "",
       "keywords": [
       ]
     },
     {
       "name": "reading",
-      "name": "",
       "keywords": [
       ]
     },
     {
       "name": "weightlifting",
-      "name": "",
       "keywords": [
       ]
     },
     {
       "name": "anime",
-      "name": "",
       "keywords": [
       ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Bilingual",
+      "level": "",
+      "keywords": [
+        "Fluent in Cantonese"
+      ]
+    },
+     {
+      "name": "Microsoft",
+      "level": "",
+      "keywords": [
+        "Word",
+        "Excel",
+        "Powerpoint"
+      ]
+    },
+     {
+      "name": "Security Clearance",
+      "level": "",
+      "keywords": [
+        "Possesses a DoD security clearance, details available upon request"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2022)",
+      "studyType": "B.B.A.",
+      "startDate": "2020-08",
+      "endDate": "Present",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2015-08",
+      "endDate": "2017-12",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Farrington High School",
+      "position": "Paraprofessional Educator",
+      "website": "",
+      "startDate": "2018-06",
+      "endDate": "Present",
+      "summary": "Tech",
+      "highlights": [
+        "Manage network IP addresses and Google Administration for organization",
+        "Install and repair school software and drivers",
+        "Train personnel how to use new technology and offer timely technical support to users"
+      ]
+    },
+    {
+      "company": "Hawaii Army National Guard",
+      "position": "Senior Multichannel Transmisions Systems Operator/Maintainer",
+      "website": "",
+      "startDate": "2014-06-20",
+      "endDate": "2020-06-19",
+      "summary": "Team Chief",
+      "highlights": [
+        "Maintain accountability of equipment worth over $1,000,000",
+        "Install, operate, and maintain multichannel line-of-site communication systems",
+        "Troubleshoot system failures and provide solutions to restore system functionality"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Diamond Head Clubhouse",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2016-09",
+      "endDate": "2017-12",
+      "summary": "Service Learning",
+      "highlights": [
+        "Assist in events and activities with Clubhouse members"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Soldier of the Year",
+      "date": "2016",
+      "awarder": "227th Brigade Engineer Battalion, Hawaii Army National Guard",
+      "summary": "Won the Battalion Best Warrior Competition in a series of events testing technical and tactical military skills and knowledge "
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
