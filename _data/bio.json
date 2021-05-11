@@ -1,15 +1,22 @@
 {
   "basics": {
     "name": "Jojo Lau",
+    "label": "Shidler Undergraduate",
     "label": "",
     "picture": "https://jlau19.github.io/images/Jojo.png",
+    "email": "hl22@hawaii.edu",
     "email": "",
     "phone": "",
+    "website": "https://jlau19.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "website": "",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
       "city": "",
       "countryCode": "",
       "region": ""
